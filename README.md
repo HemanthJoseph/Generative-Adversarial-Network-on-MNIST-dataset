@@ -47,15 +47,15 @@ generate even improved fake data.
 ## Usage
 * Clone the repo to your local machine
 ```commandline
-git clone https://github.com/HemanthJoseph/MNIST-Classifier-NN-vs-CNN.git
+git clone https://github.com/HemanthJoseph/Generative-Adversarial-Network-on-MNIST-dataset.git
 ```
 * Open the folder in and code editor and then navigate to the src directory
 ```commandline
-cd MNIST-Classifier-NN-vs-CNN/src/
+cd Generative-Adversarial-Network-on-MNIST-dataset/src/
 ```
 * Run the code / train the model
 ```commandline
-python Neural_Networks.py
+python Generative_Adversarial_Networks.py
 ```
 
 * Visualize results on tensorboard
